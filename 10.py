@@ -1,6 +1,0 @@
-name_1 = input("Первая фраза: ")
-name_2 = input("Вторая фраза: ")
-name_3 = input("Третья фраза: ")
-print(name_3)
-print(name_2)
-print(name_1)
