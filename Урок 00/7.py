@@ -1,0 +1,5 @@
+film = input("Название фильма: ")
+cinema = input("Название кинотеатра: ")
+time = input("Время: ")
+print("Билет на \"" + film + "\" в")
+print("\"" + cinema + "\" на " + time + " забронирован")
